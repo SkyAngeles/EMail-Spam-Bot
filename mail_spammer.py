@@ -14,7 +14,7 @@ sentmails = 0
 
 def update_email_info():
     global msg
-    # glonal file
+    # global file
     
     msg = EmailMessage()
     msg['Subject'] = "subject" # enter email subject
