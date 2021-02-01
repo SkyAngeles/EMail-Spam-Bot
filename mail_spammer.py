@@ -9,7 +9,7 @@ RECEIVER = ["recepient_adress"] # enter recepient address
 limit = 10
 sentmails = 0
 # num = 0
-# txt = open(r"C:\Users\ica\Coding Projects\Python\web_automation\spamScript.txt", "r")
+# txt = open(r"path to spam script txt file", "r") # optional feature
 # file = txt.readlines()
 
 def update_email_info():
