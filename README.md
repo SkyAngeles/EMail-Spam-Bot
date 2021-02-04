@@ -1,15 +1,16 @@
-=================== SETUP ===================
+# EMail Bot
+
+## Setup
 
 pip install smtplib
 
 pip install email.message
 
-============= CODE CONFIGURATION =============
+## Code Configuration
 
 Add necessary paths to code
 
 Add necessary account details to code
 
-============== RUNNING THE CODE ==============
-
+## Running The Code
 Run in terminal/ cmd/ text editor
